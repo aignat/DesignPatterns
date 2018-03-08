@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement />
+  <nodes>
+    <node x="196.16666666666669" y="0.0">designpatterns.structural.adapter.Target</node>
+    <node x="82.16666666666669" y="0.0">designpatterns.structural.adapter.Adaptee</node>
+    <node x="0.0" y="80.0">designpatterns.structural.adapter.AdapteeImpl</node>
+    <node x="138.0" y="80.0">designpatterns.structural.adapter.Adapter</node>
+  </nodes>
+  <notes />
+  <edges>
+    <edge source="designpatterns.structural.adapter.Adapter" target="designpatterns.structural.adapter.Target">
+      <point x="30.66666666666667" y="-15.0" />
+      <point x="214.66666666666669" y="55.0" />
+      <point x="238.16666666666669" y="55.0" />
+      <point x="0.0" y="15.0" />
+    </edge>
+    <edge source="designpatterns.structural.adapter.Adapter" target="designpatterns.structural.adapter.Adaptee">
+      <point x="0.0" y="-15.0" />
+      <point x="184.0" y="55.0" />
+      <point x="160.5" y="55.0" />
+      <point x="31.333333333333314" y="15.0" />
+    </edge>
+    <edge source="designpatterns.structural.adapter.AdapteeImpl" target="designpatterns.structural.adapter.Adaptee">
+      <point x="0.0" y="-15.0" />
+      <point x="59.0" y="55.0" />
+      <point x="97.83333333333336" y="55.0" />
+      <point x="-31.33333333333333" y="15.0" />
+    </edge>
+  </edges>
+  <settings layout="Hierarchic Group" zoom="1.0" x="128.0" y="146.5" />
+  <SelectedNodes>
+    <node>designpatterns.structural.adapter.AdapteeImpl</node>
+  </SelectedNodes>
+  <Categories />
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement />
+  <nodes>
+    <node x="18.5" y="0.0">designpatterns.structural.facade.ScheduleServer</node>
+    <node x="0.0" y="80.0">designpatterns.structural.facade.ScheduleServerFacade</node>
+  </nodes>
+  <notes />
+  <edges>
+    <edge source="designpatterns.structural.facade.ScheduleServerFacade" target="designpatterns.structural.facade.ScheduleServer">
+      <point x="41.75" y="-15.0" />
+      <point x="125.25" y="55.0" />
+      <point x="116.0" y="55.0" />
+      <point x="32.5" y="15.0" />
+    </edge>
+  </edges>
+  <settings layout="Hierarchic Group" zoom="1.0" x="0.0" y="0.0" />
+  <SelectedNodes />
+  <Categories />
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+
